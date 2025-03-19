@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Utgard partnerBattle | Psicologa especialista en trauma y apego | utgard partnerBattle | Utgard partnerBattle </title>
+	<title>Utgard Partner Battle</title>
   <meta name="description" content="Utgard partnerBattle | Terapia psicológica online especializada en trauma, apego, autoestima y regulación emocional. Psicoterapia integrativa y Terapia EMDR, entre otras. Consulta desde casa con la psicóloga Arancha Escalona en utgard partnerBattle y Utgard partnerBattle.">
 
   <meta name="keywords" content="Utgard partnerBattle | psicóloga online, terapia trauma, autoestima, regulación emocional, mindfulness, Battle mental, terapia online españa, utgard partnerBattle, Utgard partnerBattle, Utgard partnerBattle">
@@ -21,6 +21,10 @@
   <link rel="icon" href="/web-img/logotipo/logo_utgard partner.svg" type="image/x-icon">
 	<link rel="stylesheet" href="/public/js/cookieconsent.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway|Inter|Playfair">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 
 	<script type="application/ld+json">
   {

@@ -231,6 +231,7 @@ margin-bottom: 50px;
 .image__index{
     margin-top:30px;
     margin-left: 50px;
+   
     }
     
     .image__index img{
@@ -261,6 +262,8 @@ margin-bottom: 50px;
 
   .bg_utgard .partnerindex{
     background-color: #111;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
   }
 
   .utgard .partner_index{
@@ -750,25 +753,16 @@ tbody tr:hover {
     min-width: 290px;
     max-width: 1000px;
     margin-inline: 40px auto;
-    background-color: #f2f2f2;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra en la parte izquierda e inferior */
-    transition: box-shadow 0.3s; /* Suaviza el efecto de sombra al interactuar */
-    
-}
-
-.section-form .right-column:hover {
-    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.2); /* Aumenta la sombra al pasar el mouse */
-}
-
-.section-form .right-column {
-    background-color: #f2f2f2;
-    color: #2c3e50;
+    background-color: #002642;
     padding: 20px;
     border-radius: 8px;
     margin-inline:auto;
+    border: 2px solid #002aff; /* Borde azul oscuro */
+    box-shadow: 0 0 10px #002aff, 0 0 20px #002aff, 0 0 30px #002aff; /* Efecto neón */
+    
 }
+
+
 
 .section-form h2 {
     margin-top: 0;
@@ -1301,11 +1295,12 @@ footer .footer-column ul{
  width: 250px;
  margin: 0 auto;
   }
-  .utgard partner_index{
+  .utgard .partner_index{
     display: none;
+    width: 40%;
   }
 
-  .utgard partner_index_movil{
+  .utgard .partner_index_movil{
     display: block;
     width: 100%;
   }
@@ -1345,7 +1340,7 @@ footer .footer-column ul{
     #jarron img {
       width: auto;
     }
-    .utgard partner_index{
+    .utgard .partner_index{
       width: 90%;
     }
     .hand__index img {
