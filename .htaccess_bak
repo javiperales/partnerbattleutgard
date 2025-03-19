@@ -1,0 +1,16 @@
+# Activa el motor de reescritura
+RewriteEngine On
+
+# Establece la base para las reglas
+RewriteBase /
+
+# Redirección específica para index.php a la raíz
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index\.php [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# Reescribe URLs eliminando la extensión .php (excepto para index.php)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+

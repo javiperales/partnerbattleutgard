@@ -1,0 +1,27 @@
+# Ignorar archivos de configuración de Docker
+.dockerignore
+
+# Ignorar imágenes, contenedores, volúmenes y redes de Docker
+docker-compose.override.yml
+/docker/
+**/docker-compose*.yml
+
+# Ignorar archivos de configuración y datos de Docker
+docker-sync.yml
+**/.env
+**/.env.*
+.envrc
+
+# Ignorar archivos temporales y logs de Docker
+**/docker-entrypoint-initdb.d/
+**/tmp/
+**/*.log
+
+# Ignorar datos de volúmenes de Docker
+volumes/
+**/data/
+
+# Ignorar carpeta de Docker Desktop en WSL
+DockerDesktopWSL/
+DockerDesktopWSL
+node_modules
