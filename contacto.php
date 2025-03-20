@@ -24,12 +24,12 @@
                 es respondida con atención y dedicación.
             </p>
             
-            <p><a href= "mailto:info@utgard partnerBattle.com"><img class="icon_contact" src="/web-img/icons/email.svg" alt="">info@utgard partnerBattle.com </a></p>
+            <p><a href= "mailto:crossfitutgard@hotmail.com"><img class="icon_contact" src="/web-img/icons/email.svg" alt="">crossfitutgard@hotmail.com</a></p>
             <p><a href="https://wa.me/34634634781"> <img class="icon_contact" src="/web-img/icons/whatsapp.svg" alt=""> +34634634781</a></p>
         </div>
 
         <div class="image__contact">
-            <img src="./web-img/images/aran_pc.jpg" alt="Utgard partnerBattle | Psicologia online">
+            <img src="./web-img/images/aran_pc.jpg" alt="Utgard PartnersBattle | Psicologia online">
 
         </div>
 

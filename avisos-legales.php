@@ -1,5 +1,5 @@
 <?php
-const _TITLE ="utgard partner Battle";
+const _TITLE ="utgard Partners Battle";
 ?>
 
 <?php include("head.php"); ?>
@@ -10,16 +10,16 @@ const _TITLE ="utgard partner Battle";
     <div class="legal-container ">
    <h1>Aviso Legal</h1> 
 <p>
-En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), se detallan a continuación las condiciones de uso y la información relativa al responsable del sitio web <strong>Utgard partner- Battle</strong>.
+En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y del Comercio Electrónico (LSSI-CE), se detallan a continuación las condiciones de uso y la información relativa al responsable del sitio web <strong>Utgard Partners- Battle</strong>.
 <h2>1.Identificación del Responsable</h2>
 </p>
 
 <h3>Titular del sitio web:</h3>
-<p><strong>Nombre completo del responsable</strong>: María Aranzazu Escalona Nuez
+<p><strong>Nombre completo del responsable</strong>: Utgard Box
 <br>
-<strong>NIF</strong>:73410550R 
+<strong>CIF</strong>:G99548802
 <br>
-<strong>Correo electrónico</strong>: <a href="mailto:info@utgard partnerBattle.com">info@utgard partnerBattle.com</a>
+<strong>Correo electrónico</strong>: <a href="mailto:crossfitutgard@hotmail.com">crossfitutgard@hotmail.com</a>
 <br>
 <strong>Teléfono</strong>: <a href="tel:+34 634 634 781">+34 634 634 781</a>
 <br>
@@ -33,7 +33,7 @@ El propósito de este sitio es proporcionar información sobre los servicios de 
 <p>
 El responsable garantiza la confidencialidad en el tratamiento de los datos personales facilitados por los usuarios. Toda gestión de datos se realiza en cumplimiento del Reglamento General de Protección de Datos (RGPD) y demás normativa aplicable.
 <br>
-Los datos se utilizarán exclusivamente para responder a las consultas enviadas por los usuarios y no serán cedidos a terceros, salvo cuando sea imprescindible para prestar los servicios requeridos. Para más información sobre el tratamiento de datos personales, puedes contactarnos en <a href="mailto:info@utgard partnerBattle.com">info@utgard partnerBattle.com</a>.
+Los datos se utilizarán exclusivamente para responder a las consultas enviadas por los usuarios y no serán cedidos a terceros, salvo cuando sea imprescindible para prestar los servicios requeridos. Para más información sobre el tratamiento de datos personales, puedes contactarnos en <a href="mailto:info@utgard PartnersBattle.com">info@utgard PartnersBattle.com</a>.
 </p>
 <h2>4.Propiedad Intelectual e Industrial</h2>
 <p>

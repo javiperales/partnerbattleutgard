@@ -4,7 +4,7 @@
 
 
 <section>
-<h1 class="dnone">Utgard partnerBattle - utgard partnerBattle</h1>
+<h1 class="dnone">Utgard PartnersBattle - utgard PartnersBattle</h1>
 <h1 class="title">MÉTODO DE TRABAJO</h1>
 <div class="container__index">
     
@@ -29,7 +29,7 @@
             </div>
 
             <div class="image__index">
-                <img src="./web-img/images/habitacion_servicios.jpg"  alt="Espacio terapéutico profesional en Utgard partnerBattle utgard partnerBattle"  loading="lazy">
+                <img src="./web-img/images/habitacion_servicios.jpg"  alt="Espacio terapéutico profesional en Utgard PartnersBattle utgard PartnersBattle"  loading="lazy">
 
             </div>
 
@@ -79,7 +79,7 @@
            </a>
            </div>
         <div class="container_bienestar">
-            <img class="bienestar" src="/web-img/images/metodo_trabajo.jpg"  alt="Psicóloga Arancha Escalona - Utgard partnerBattle - utgard partnerBattle" loading="lazy">
+            <img class="bienestar" src="/web-img/images/metodo_trabajo.jpg"  alt="Psicóloga Arancha Escalona - Utgard PartnersBattle - utgard PartnersBattle" loading="lazy">
         </div>
     </div>
 </section>

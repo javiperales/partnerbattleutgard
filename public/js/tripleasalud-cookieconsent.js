@@ -80,7 +80,7 @@ cc.run({
                         description: 'Una “cookie” es un simple archivo de texto almacenado por el servidor de un sitio web en su ordenador o dispositivo móvil al que solo el propio servidor puede acceder y leer los contenidos de dicho archivo. Nuestra web utiliza una  de las siguientes cookies.'
                     }, {
                         title: 'Cookies necesarias',
-                        description: 'Estas cookies son esenciales para el correcto funcionamiento de mi sitio web. Sin estas cookies, el sitio web no funcionaría correctamente. <a class="cc-link" href="https://utgard partnerBattle.com/politica-de-cookies.php">Mas información</a>.',
+                        description: 'Estas cookies son esenciales para el correcto funcionamiento de mi sitio web. Sin estas cookies, el sitio web no funcionaría correctamente. <a class="cc-link" href="https://utgard PartnersBattle.com/politica-de-cookies.php">Mas información</a>.',
                         toggle: {
                             value: 'necessary',
                             enabled: true,
@@ -88,7 +88,7 @@ cc.run({
                         }
                     }, {
                         title: 'Cookies funionales',
-                        description: 'Este tipo de “cookies” aumentan la funcionalidad del sitio web guardando sus preferencias. Por ejemplo, una “cookie” se puede utilizar para cambiar el idioma por defecto.<a class="cc-link" href="https://utgard partnerBattle.com/politica-de-cookies.php">Mas información</a>.',
+                        description: 'Este tipo de “cookies” aumentan la funcionalidad del sitio web guardando sus preferencias. Por ejemplo, una “cookie” se puede utilizar para cambiar el idioma por defecto.<a class="cc-link" href="https://utgard PartnersBattle.com/politica-de-cookies.php">Mas información</a>.',
                         toggle: {
                             value: 'targeting',
                             enabled: false,
@@ -96,7 +96,7 @@ cc.run({
                         }
                     }, {
                         title: 'Mas informacion',
-                        description: 'Para la información completa sobre la política de cookies puede acceder aquí y para la política de privacidad, <a class="cc-link" href="https://utgard partnerBattle.com/politica-de-privacidad.php">aqui</a>.',
+                        description: 'Para la información completa sobre la política de cookies puede acceder aquí y para la política de privacidad, <a class="cc-link" href="https://utgard PartnersBattle.com/politica-de-privacidad.php">aqui</a>.',
                     }
                 ]
             }

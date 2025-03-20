@@ -3,10 +3,10 @@
     <section>
         <div class="container__index">
             <div class="text__index">
-                    <h1 class="animate__backInDown"><strong> Utgard partner- Battle </strong></h1>
+                    <h1 class="animate__backInDown"><strong> Utgard Partners Battle </strong></h1>
                    
                     <p>
-                   Utgard Partner Battle 2025 te espera
+                   Utgard Partners Battle 2025 os espera 
                 </p>
                
                 <p>
@@ -15,7 +15,7 @@
                
                 
                 <p>
-                <a href="wodbusterarena.com"> <p class="btn-reservar">
+                <a href="https://arena.wodbuster.com/register.aspx?id=2617"> <p class="btn-reservar">
                     Registrate aquí ahora      
                      </p>
                     </a>
@@ -56,7 +56,7 @@
         <img class="image__index" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
         <p>
                 <a href="wodbusterarena.com"> <p class="btn-reservar">
-                    Registrate aquí ahora      
+                    Ubicacion    
                      </p>
                     </a>
                 </p>
@@ -66,7 +66,7 @@
         <img class="image__index" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
         <p>
                 <a href="wodbusterarena.com"> <p class="btn-reservar">
-                    Registrate aquí ahora      
+                    Contacto     
                      </p>
                     </a>
                 </p>
@@ -98,10 +98,6 @@
             <div class="form-group">
                 <label for="email">Correo Electrónico:</label>
                 <input type="email" id="email" name="email" required>
-            </div>
-            <div class="form-group">
-                <label for="disponibilidad">Disponibilidad:</label>
-                <input type="text" id="disponibilidad" name="disponibilidad" required>
             </div>
             <div class="form-group">
                 <label for="message">Motivo de la consulta:</label>

@@ -1,5 +1,5 @@
 <?php
-const _TITLE ="utgard partner Battle";
+const _TITLE ="Utgard Partners Battle";
 ?>
 
 <?php include("head.php"); ?>
@@ -8,22 +8,22 @@ const _TITLE ="utgard partner Battle";
 
 
     <div class="legal-container ">
-   <h1>Política de Privacidad de utgard partner Battle</h1> 
+   <h1>Política de Privacidad de Utgard Partners Battle</h1> 
 <p>
-En <strong>utgard partner-Battle</strong>, nos preocupamos por proteger tu privacidad y garantizar la seguridad de tus datos personales. Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos tu información, en cumplimiento con el <strong> Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)</strong>.
+En <strong>Utgard Partners Battle</strong>, nos preocupamos por proteger tu privacidad y garantizar la seguridad de tus datos personales. Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos tu información, en cumplimiento con el <strong> Reglamento General de Protección de Datos (RGPD) y la Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales (LOPDGDD)</strong>.
 </p>
 <h2>1.Responsable del Tratamiento de los Datos</h2>
 <p>
-<strong>Nombre completo del responsable</strong>: María Aranzazu Escalona Nuez
+<strong>Nombre completo del responsable</strong>: 
 </p>
 <p>
-<strong>DNI</strong>: 73410550R
+<strong>CIF</strong>: G99548802 
 </p>
 <p>
-<strong>Correo electrónico:</strong> <a href="mailto:utgard@gmail.com">utgard@gmail.com</a>
+<strong>Correo electrónico:</strong> <a href="mailto:crossfitutgard@hotmail.com">crossfitutgard@hotmail.com</a>
 </p>
 <p>
-<strong> Teléfono de contacto:</strong><a href="tel:+34 634 634 781">+34 634 634 781</a> 
+<strong> Teléfono de contacto:</strong><a href="tel:+34 617 200 982">+34 617 200 982</a> 
 </p>
 
 <h2>2. Información que recopilamos</h2>
@@ -70,7 +70,7 @@ Como titular de los datos, tienes derecho a:
    <li><strong>Portabilidad:</strong> Recibir tus datos o transferirlos a otro proveedor.</li>
    <li><strong>Limitación del tratamiento</strong>: Restringir el uso de tus datos en ciertos casos.</li>
 </ol>
-<p>Para ejercer tus derechos, contáctanos en <a href="mailto:info@utgard partnerBattle.com">info@utgard partnerBattle.com.</a> Si no estás satisfecho con nuestra gestión, puedes presentar una reclamación ante la Agencia Española de Protección de Datos <a href="www.aepd.es">(www.aepd.es).</a></p>
+<p>Para ejercer tus derechos, contáctanos en <a href="mailto:">crossfitutgard@hotmail.com.</a> Si no estás satisfecho con nuestra gestión, puedes presentar una reclamación ante la Agencia Española de Protección de Datos <a href="www.aepd.es">(www.aepd.es).</a></p>
 <h2>7. Herramientas de Comunicación</h2>
 <p>
 Con tu consentimiento, podemos utilizar aplicaciones como WhatsApp para gestionar citas y facilitar la comunicación contigo, respetando estrictamente la seguridad de tus datos.

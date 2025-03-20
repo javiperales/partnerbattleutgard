@@ -1,6 +1,6 @@
 
 <?php
-const _TITLE ="utgard partner Battle";
+const _TITLE ="utgard Partners Battle";
 ?>
 
 <?php include("head.php"); ?>

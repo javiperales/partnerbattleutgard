@@ -22,7 +22,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
     $surname = filter_input(INPUT_POST, 'surname', FILTER_SANITIZE_STRING);
     $enterprise = filter_input(INPUT_POST, 'telefono', FILTER_SANITIZE_STRING);
-    $disp = filter_input(INPUT_POST, 'disponibilidad', FILTER_SANITIZE_STRING);
     $msg = filter_input(INPUT_POST, 'message', FILTER_SANITIZE_STRING);
     
     
@@ -38,18 +37,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mailAdmin->Port       = SMTP_PORT;   
         $mailAdmin->CharSet = 'UTF-8';
         
-        $mailAdmin->setFrom('info@utgard partnerBattle.com', 'utgard partner Battle');
-        $mailAdmin->addAddress('info@utgard partnerBattle.com');
+        $mailAdmin->setFrom('crossfitutgard@hotmail.com', 'Utgard Partners Battle');
+        $mailAdmin->addAddress('crossfitutgard@hotmail.com');
         
         // Contenido del correo al administrador
         $mailAdmin->isHTML(true);
-        $mailAdmin->Subject = 'Nuevo mensaje de paciente';
+        $mailAdmin->Subject = 'Nuevo mensaje de Interesado en Partners Battle Utgard';
         $mailAdmin->Body = '<h1>Detalles del mensaje</h1>
                             <p><strong>Nombre:</strong>' .$name.'</p>
                             <p><strong>Apellidos:</strong><br>' .$surname.'</p>
                             <p><strong>Email:</strong> ' . $email . '</p>
                             <p><strong>Telefono:</strong><br>' . $enterprise . '</p>
-                            <p><strong>Disponibilidad:</strong><br>' . $disp . '</p>
                             <p><strong>Mensaje:</strong><br>' . nl2br($msg) . '</p>';
         $mailAdmin->AltBody = "Nombre: $name\nEmail: $email\nTelefono: $enterprise\nMensaje: $msg";
 
@@ -67,14 +65,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mailCliente->Port       = SMTP_PORT;   
         $mailCliente->CharSet = 'UTF-8';
         
-        $mailCliente->setFrom('info@utgard partnerBattle.com', 'utgard partner Battle');
+        $mailCliente->setFrom('crossfitutgard@hotmail.com', 'Utgard Partners Battle');
         $mailCliente->addAddress($email); // Enviar al correo del cliente
-        $mailCliente->addReplyTo('info@utgard partnerBattle.com', 'utgard partner Battle');
+        $mailCliente->addReplyTo('crossfitutgard@hotmail.com', 'Utgard Partners Battle');
 
         // Contenido del correo de confirmación
         $mailCliente->isHTML(true);
         $mailCliente->Subject = 'Formulario Enviado Correctamente';
-        $mailCliente->Body = 'Hola ' . $name . ',<br><br>Gracias por ponerte en contacto con nosotros. Hemos recibido tu mensaje y nos pondremos en contacto contigo lo antes posible.<br><br><br>Atentamente,<br>utgard partner Battle';
+        $mailCliente->Body = 'Hola ' . $name . ',<br><br>Gracias por ponerte en contacto con nosotros. Hemos recibido tu mensaje y nos pondremos en contacto contigo lo antes posible.<br><br><br>Atentamente,<br>Utgard Partners Battle';
         
         $mailCliente->send();
        

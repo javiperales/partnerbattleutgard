@@ -132,7 +132,7 @@ p, li{
 } 
 
 
-.imgpartner{
+.imgPartners{
   width: 100%;
 }
 
@@ -260,35 +260,35 @@ margin-bottom: 50px;
     margin-top: 75px;
   }
 
-  .bg_utgard .partnerindex{
+  .bg_utgard .Partnersindex{
     background-color: #111;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     
   }
 
-  .utgard .partner_index{
+  .utgard .Partners_index{
     text-align: center;
     box-shadow: 0px 0px 0px #fff;
   }
 
-  .utgard .partner_index_movil{
+  .utgard .Partners_index_movil{
     text-align: center;
     box-shadow: 0px 0px 0px #fff;
     display: none;
   }
 
-.utgard .partnerindex{
+.utgard .Partnersindex{
   width: 1000px;
   margin: 0 auto;
   padding-top: 80px;
   text-align: center;
 }
 
-  .utgard .partner_index:hover{
+  .utgard .Partners_index:hover{
     box-shadow: 0px 0px 0px #fff;
   }
 
-  .utgard .partner_index_movil:hover{
+  .utgard .Partners_index_movil:hover{
     box-shadow: 0px 0px 0px #fff;
   }
 
@@ -1051,7 +1051,7 @@ footer a:hover {
         width: 90%;
       }
 
-      .utgard partnerindex {
+      .utgard Partnersindex {
         width: 90%;
       }
       .hand__index img {
@@ -1295,12 +1295,12 @@ footer .footer-column ul{
  width: 250px;
  margin: 0 auto;
   }
-  .utgard .partner_index{
+  .utgard .Partners_index{
     display: none;
     width: 40%;
   }
 
-  .utgard .partner_index_movil{
+  .utgard .Partners_index_movil{
     display: block;
     width: 100%;
   }
@@ -1340,7 +1340,7 @@ footer .footer-column ul{
     #jarron img {
       width: auto;
     }
-    .utgard .partner_index{
+    .utgard .Partners_index{
       width: 90%;
     }
     .hand__index img {

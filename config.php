@@ -3,7 +3,7 @@
 
 const SMTP_PASSWORD ="Escal0na!07121994";
 
-const SMTP_USER ="info@utgard partnerBattle.com";
+const SMTP_USER ="info@utgard PartnersBattle.com";
 
 const SMTP_HOST ="smtp.ionos.es";
 
