@@ -3,14 +3,14 @@
     <section>
         <div class="container__index">
             <div class="text__index">
-                    <h1 class="animate__backInDown"><strong> Utgard Partners Battle </strong></h1>
+                    <h1 class="animate__backInDown"><strong> ¡Bienvenidos a la Utgard Partners Battle!</strong></h1>
                    
                     <p>
                    Utgard Partners Battle 2025 os espera 
                 </p>
                
                 <p>
-                   Los dias 6 y 7 de Septiembre de 2025, te estaremos esperando en Utgard
+                La Utgard Partners Battle es la competencia de cross training más emocionante del año, diseñada especialmente para equipos de dos. ¡Es hora de poner a prueba tu fuerza, resistencia, agilidad y trabajo en equipo! Forma tu pareja, prepárate para desafiar tus límites y demuestra que juntos son invencibles.
                 </p>
                
                 
@@ -30,32 +30,40 @@
 
         </div>
 
-        <div class="container__index">
+        <div >
             
         <div class="image__index">
-        <img class="image__index" src="./web-img/images/sensacion_wod.jpeg" alt="l" loading="lazy">
-        <p>
-                <a href="wodbusterarena.com"> <p class="btn-reservar">
-                    Registrate aquí ahora      
-                     </p>
-                    </a>
-                </p>
+        <img class="" src="./web-img/images/sensacion_wod.jpeg" alt="l" loading="lazy">
+            <div class="text__index">
+                    <p>
+                    En esta competencia, los participantes competirán en una serie de desafíos físicos diseñados para poner a prueba cada aspecto de su rendimiento físico. Lo mejor de todo es que cada equipo será formado por dos personas, lo que significa que tendrás que trabajar en perfecta sincronía con tu compañero para superar cada prueba. ¡El verdadero espíritu de trabajo en equipo estará a la vista!
+                    </p>
+                </div>
 
             </div>
             <div class="image__index">
         <img class="image__index" src="./web-img/images/cinturon.jpeg" alt="l" loading="lazy">
         <p>
-                <a href="wodbusterarena.com"> <p class="btn-reservar">
-                    Registrate aquí ahora      
-                     </p>
-                    </a>
+              
+        La Utgard Partners Battle tiene categorías tanto para principiantes como para atletas avanzados, asegurando que todos tengan una competencia justa y desafiante, independientemente de su nivel. Desde movimientos básicos hasta ejercicios complejos, ¡hay algo para todos!
                 </p>
 
             </div>
             <div class="image__index">
         <img class="image__index" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
+       <div>
         <p>
-                <a href="wodbusterarena.com"> <p class="btn-reservar">
+            ¿Donde será?
+            <br>
+            Nuestra batalla tendra lugar en 2 ubicaciones confirmadas.
+            <br>
+            La plaza de toros de Casetas (Zaragoza) y
+            <br>
+            En utgard Box Utebo(Zaragoza)
+        </p>
+       </div>
+        <p>
+                <a href=""> <p class="btn-reservar">
                     Ubicacion    
                      </p>
                     </a>
