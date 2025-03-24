@@ -54,32 +54,39 @@
         <div class="section_body">
         <img class="" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
         <div class="section_text">
+            <h2> ¿Donde será?</h2>
         <p>
-            ¿Donde será?
+           
             <br>
-            Nuestra batalla tendra lugar en 2 ubicaciones confirmadas.
+            Nuestra batalla tendra lugar en 2 ubicaciones confirmadas:
             <br>
-            La plaza de toros de Casetas (Zaragoza) y
-            <br>
-            En utgard Box Utebo(Zaragoza)
-        </p>
-       </div>
-        <p>
+            <div class="">
+                <p>
                 <a href=""> <p class="btn-reservar">
-                    Ubicacion    
+                  Plaza de toros Casetas(Zaragoza)
                      </p>
                     </a>
                 </p>
-
+                <p>
+                <a href=""> <p class="btn-reservar">
+                 Utgard Box Utebo(Zaragoza)
+                     </p>
+                    </a>
+                </p>
+                </div>
         </div>
+        </p>
+     
+       </div>
+       
 
         <div class="section_body">
-        <img class="" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
-        <div class="section_text"> 
-            <h2>
-                CATEGORIOAS
-            </h2>
-        <p>
+        
+            <div class="section_text"> 
+                <h2>
+                    CATEGORIAS
+                </h2>
+                <p>
                 <a href="wodbusterarena.com"> <p class="btn-reservar">
                     Contacto     
                      </p>
@@ -87,7 +94,7 @@
                 </p>
 
             </div>
-
+            <img class="" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
           
             
         </div>

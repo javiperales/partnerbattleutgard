@@ -147,6 +147,11 @@ p, li{
 }
 
 
+.ubicaciones{
+      display: grid;
+      grid-template-columns: 1fr 1fr;  
+}
+
  .section{
     position: relative;
     padding: 60px 20px; 
