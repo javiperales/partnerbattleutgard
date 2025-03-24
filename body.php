@@ -32,26 +32,28 @@
 
         <div >
             
-        <div class="image__index">
+        <div class="section_body">
         <img class="" src="./web-img/images/sensacion_wod.jpeg" alt="l" loading="lazy">
-            <div class="text__index">
+            <div class="section_text">
                     <p>
                     En esta competencia, los participantes competirán en una serie de desafíos físicos diseñados para poner a prueba cada aspecto de su rendimiento físico. Lo mejor de todo es que cada equipo será formado por dos personas, lo que significa que tendrás que trabajar en perfecta sincronía con tu compañero para superar cada prueba. ¡El verdadero espíritu de trabajo en equipo estará a la vista!
                     </p>
-                </div>
-
             </div>
-            <div class="image__index">
-        <img class="image__index" src="./web-img/images/cinturon.jpeg" alt="l" loading="lazy">
-        <p>
-              
-        La Utgard Partners Battle tiene categorías tanto para principiantes como para atletas avanzados, asegurando que todos tengan una competencia justa y desafiante, independientemente de su nivel. Desde movimientos básicos hasta ejercicios complejos, ¡hay algo para todos!
+
+        </div>
+        
+        <div class="section_body">
+        <div class="section_text">
+                <p>  
+                La Utgard Partners Battle tiene categorías tanto para principiantes como para atletas avanzados, asegurando que todos tengan una competencia justa y desafiante, independientemente de su nivel. Desde movimientos básicos hasta ejercicios complejos, ¡hay algo para todos!
                 </p>
-
             </div>
-            <div class="image__index">
-        <img class="image__index" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
-       <div>
+            <img class="" src="./web-img/images/cinturon.jpeg" alt="l" loading="lazy">
+        </div>
+
+        <div class="section_body">
+        <img class="" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
+        <div class="section_text">
         <p>
             ¿Donde será?
             <br>
@@ -69,9 +71,14 @@
                     </a>
                 </p>
 
-            </div>
-            <div class="image__index">
-        <img class="image__index" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
+        </div>
+
+        <div class="section_body">
+        <img class="" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
+        <div class="section_text"> 
+            <h2>
+                CATEGORIOAS
+            </h2>
         <p>
                 <a href="wodbusterarena.com"> <p class="btn-reservar">
                     Contacto     
@@ -80,6 +87,7 @@
                 </p>
 
             </div>
+
           
             
         </div>

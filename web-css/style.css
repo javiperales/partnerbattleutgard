@@ -33,7 +33,7 @@ a{
 
 
 p, li{
-  font-size: 18px;
+  font-size: 24px;
   font-family: 'Inter' , serif;
 }
 
@@ -237,6 +237,30 @@ margin-bottom: 50px;
       width: 340px;
       
       margin-bottom: 90px;
+    }
+
+    .section_body{
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          align-items: center;
+          justify-content: center;
+          width: 1600px;
+          margin-inline: auto;
+    }
+
+    .section_body img{
+      width: 750px;
+    }
+
+    .section_text{
+      color: #fff;
+      width: 650px;
+      margin-inline: auto;
+      font-size: 24px;
+      text-align: justify;
+      line-height: 1.75;
+      margin-bottom: 50px;
+
     }
 
 .hand__index{
