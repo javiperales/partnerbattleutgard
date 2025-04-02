@@ -20,7 +20,9 @@
 	<link rel="shortcut icon" type="image/svg+xml" href="/web-img/images/logo_Partners.jpeg" />
   <link rel="icon" href="/web-img/images/logo_Partners.jpeg" type="image/x-icon">
 	<link rel="stylesheet" href="/public/js/cookieconsent.css">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway|Inter|Playfair">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=New+Rocker&display=swap" rel="stylesheet">
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"

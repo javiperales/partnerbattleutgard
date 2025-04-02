@@ -1,11 +1,11 @@
 
 <?php
 
-const SMTP_PASSWORD ="Escal0na!07121994";
+const SMTP_PASSWORD ="";
 
-const SMTP_USER ="info@utgard PartnersBattle.com";
+const SMTP_USER ="";
 
-const SMTP_HOST ="smtp.ionos.es";
+const SMTP_HOST ="";
 
 const SMTP_PORT = 587;
 // Crea una cuenta en Google Cloud Platform

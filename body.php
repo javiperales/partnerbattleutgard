@@ -1,12 +1,14 @@
 
 
     <section>
-        <div class="container__index">
-            <div class="text__index">
-                    <h1 class="animate__backInDown"><strong> ¡Bienvenidos a la Utgard Partners Battle!</strong></h1>
+    <h1 class="title new-rocker-regular"><strong> ¡Bienvenidos a la Utgard Partners Battle!</strong></h1>
+        <div class="section_body">
+       
+            <div class="section_text">
+                  
                    
-                    <p>
-                   Utgard Partners Battle 2025 os espera 
+                <p class="new-rocker-regular">
+                   Utgard Partners Battle 2025 os espera.
                 </p>
                
                 <p>
@@ -16,12 +18,12 @@
                 
                 <p>
                 <a href="https://arena.wodbuster.com/register.aspx?id=2617"> <p class="btn-reservar">
-                    Registrate aquí ahora      
+                    Registrate aquí ahora.      
                      </p>
                     </a>
                 </p>
             </div>
-            <div class="image__index">
+            <div class="">
                 <img " src="./web-img/images/scaled_bn.jpeg"  alt="" loading="lazy">
                 
 
@@ -39,6 +41,21 @@
                     En esta competencia, los participantes competirán en una serie de desafíos físicos diseñados para poner a prueba cada aspecto de su rendimiento físico. Lo mejor de todo es que cada equipo será formado por dos personas, lo que significa que tendrás que trabajar en perfecta sincronía con tu compañero para superar cada prueba. ¡El verdadero espíritu de trabajo en equipo estará a la vista!
                     </p>
             </div>
+
+        </div>
+
+        <div class="">
+        <div class="countdown-container">
+        <h1 class="title_atras new-rocker-regular">SOLO QUEDAN:</h1>
+        <div id="countdown" class="title">
+            <span id="days" class="contador new-rocker-regular">00</span><span class="contador new-rocker-regular">D :</span>
+            <span id="hours" class="contador new-rocker-regular">00</span><span class="contador new-rocker-regular">H :</span>
+            <span id="minutes" class="contador new-rocker-regular">00</span><span class="contador new-rocker-regular">M :</span>
+            <span id="seconds" class="contador new-rocker-regular">00</span><span class="contador new-rocker-regular">S</span>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 
         </div>
         
@@ -63,13 +80,13 @@
             <div class="">
                 <p>
                 <a href=""> <p class="btn-reservar">
-                  Plaza de toros Casetas(Zaragoza)
+                  Plaza de toros Casetas(Zaragoza).
                      </p>
                     </a>
                 </p>
                 <p>
                 <a href=""> <p class="btn-reservar">
-                 Utgard Box Utebo(Zaragoza)
+                 Utgard Box Utebo(Zaragoza).
                      </p>
                     </a>
                 </p>
@@ -86,6 +103,12 @@
                 <h2>
                     CATEGORIAS
                 </h2>
+                <p>
+                    RX,MASTER +75, INTERMEDIO Y SCALED.
+                </p>
+                <P>
+                    DEL MISMO SEXO Y MIXTAS.
+                </P>
                 <p>
                 <a href="wodbusterarena.com"> <p class="btn-reservar">
                     Contacto     
