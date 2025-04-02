@@ -82,21 +82,7 @@ p, li{
     box-shadow: 0px 0px 0px;
 }
 
-.botom{
-    margin-bottom: 50px;
-}
 
-.top{
-    margin-top: 50px;
-}
-
-.padding{
-    padding: 5em;
-}
-
-.size{
-    font-size: 18px;
-}
 .nav-container {
     display: flex;
     justify-content: center; /* Centra el menú */
@@ -146,28 +132,6 @@ p, li{
     color: yellow; /* Cambia el color del texto al pasar el ratón */
 }
 
-.text-section_graduacion,
-.text-section_graduacion h2{
-    text-align: center;
-} 
-
-
-.imgPartners{
-  width: 100%;
-}
-
-.lista_graduacion{
-   list-style: disclosure-closed;
-    text-align: left;
-}
-
-.lista_graduacion > li{
-  line-height: 1.4;
-}
-
-.text-section_graduacion{
-    height: fit-content;
-}
 
 
 .ubicaciones{
@@ -192,15 +156,6 @@ p, li{
     margin: 0 auto;
 }
 
- .parrafo:after{
-  content: '';
-    display: block;
-    width: 100%;
-    height: 2px;
-    background: #111; 
-    margin-top: 20px;
-}
-
 .section::before {
     margin-bottom: 20px;
 }
@@ -215,58 +170,7 @@ p, li{
    
 }
 
-/*index*/
-
-.container__index{
-display: grid;
-grid-template-columns: 1fr 1fr;
-align-items: center;
-justify-content: center;
-width: 1000px;
-  margin-inline: auto;
- 
-}
-
-.container__reviews{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-  justify-content: center;
-  width: 1000px;
-  margin-inline: auto;
-  margin-top:50px;
-margin-bottom: 50px;
-   
-  }
-
-  .text__index {
-    color: #fff;
-    text-align: left;
-    width: 550px;
-    margin-inline: auto;
-    font-size: 17px;
-    text-align: justify;
-    line-height: 1.75;
-    margin-bottom: 50px;
-}
-
-.image__index{
-    margin-top:30px;
-    margin-left: 50px;
-   
-    }
     
-    .image__index img{
-    width: 450px;
-    margin-bottom: 90px;
-    }
-
-    #jarron img{
-      width: 340px;
-      
-      margin-bottom: 90px;
-    }
-
     .section_body{
           display: grid;
           grid-template-columns: 1fr 1fr;
@@ -293,62 +197,8 @@ margin-bottom: 50px;
 
     }
 
-.hand__index{
-    position: relative;
-    height: 450px;
-    width: 100%;
-    background-color:#d4d4d4;
-    margin-bottom: 50px;
-    opacity: 0.9;
-}
 
-.hand__index img {
-    width: 300px;
-    height: 250px;
-    margin-top: 75px;
-  }
 
-  .bg_utgard .Partnersindex{
-    background-color: #111;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    
-  }
-
-  .utgard .Partners_index{
-    text-align: center;
-    box-shadow: 0px 0px 0px #fff;
-  }
-
-  .utgard .Partners_index_movil{
-    text-align: center;
-    box-shadow: 0px 0px 0px #fff;
-    display: none;
-  }
-
-.utgard .Partnersindex{
-  width: 1000px;
-  margin: 0 auto;
-  padding-top: 80px;
-  text-align: center;
-}
-
-  .utgard .Partners_index:hover{
-    box-shadow: 0px 0px 0px #fff;
-  }
-
-  .utgard .Partners_index_movil:hover{
-    box-shadow: 0px 0px 0px #fff;
-  }
-
-  .hand__text{
-    text-align: center;
-    margin-top: 75px;
-    width: 350px;
-  }
-  .hand__text p{
-    font-size: 20px !important;
-    line-height: 1.4;
-  }
   .btn-reservar{
     background-color: #111;
     color: #fff;
@@ -396,31 +246,6 @@ margin-bottom: 50px;
 
   }
 
-/*about*/
-
-        .bg_trabajo{
-          background-color:  #d4d4d4;
-        
-        }
-        .bg_trabajo_graduacion{
-          background-color: #111;
-          height: 740px;
-        }
-
-.interlineado{
-  line-height: 1.6;
-}
-
-.font-size-20{
-  font-size: 20px;
-}
-.font-size-21{
-  font-size: 21px;
-}
-
-.font-size-22{
-  font-size: 22px;
-}
 
 
   /* From Uiverse.io by asgardOP */ 
@@ -472,54 +297,27 @@ margin-bottom: 50px;
 }
 
  
-.flex{
-  display: flex;
-}
 
-    .table{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        margin: 50px;
-        background-color: #d4d4d4;
-        border-top-right-radius: 40px;
-      border-bottom-right-radius: 40px;
-      border-top-left-radius: 40px;
-      border-bottom-left-radius: 40px;
+  
+  @keyframes slide-in-top {
+    0% {
+      transform: translateY(-50px);
+      opacity: 0;
     }
-
-    .table > div{
-       
-    padding: 10px;
+  
+    100% {
+      transform: translateY(0);
+      opacity: 1;
     }
-
-    .table > #time{
-      border-top-left-radius: 40px;
-      border-bottom-left-radius: 40px;
-    }
-
-    .table > #place{
-      border-top-right-radius: 40px;
-      border-bottom-right-radius: 40px;
-    }
-
+  }
+  
 
 /*servicios*/
 
-.container__services {
-    text-align: center; /* Centrar texto */
-}
+
 
 /* Estilos para las imágenes */
-.foto_services img{
-    width: 40em;
-   margin:30px;
-}
 
-
-.wrapper_service{
-    width: 1000px;
-  margin-inline: auto;
-}
 .servicios_help {
    
     margin-bottom: 80px;
@@ -606,19 +404,6 @@ margin-bottom: 50px;
     background-color: #d4d4d4;
 }
 
-.trabajo_necesitas{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.icon_work{
-  text-align: center;
-}
-.icon_work img{
-  width: 120px;
-  border-radius: 0;
-  box-shadow: 0px 0px 0px;
-}
 
 .text_icon{
   text-align: center;
@@ -728,15 +513,6 @@ margin-bottom:100px;
 	margin-top: 12px;
 }
 
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    border-radius: 12px;
-    overflow: hidden;
-    background: linear-gradient(to right, #2c3e50, #9b59b6);
-    color: white;
-}
 
 th, td {
     padding: 12px 15px;
@@ -1009,96 +785,32 @@ footer a:hover {
         text-align: center;
     }
 
-    .container__index {
-        display: block;
-        width: 90%;
-        margin-inline: auto;
-       
-      }
 
-      .container__reviews {
-        display: block;
-        width: 90%;
-        margin-inline: auto;
-       
-      }
+
+  
       .wrapper{
         display: block;
         width: 90%;
         margin-inline: auto;
       }
 
-      .hand__text{
-        text-align: center;
-        width: 90%;
-        margin: 0 auto;
-      }
 
-      .hand__index{
-        width: 100%;
-        margin-bottom: 50px;
-        opacity: 0.9;
-        height: 720px;
-      }
 
-      #jarron img {
-        width: 90%;
-      }
-
-      .utgard Partnersindex {
-        width: 90%;
-      }
-      .hand__index img {
-        width: 78%;
-        height: 250px;
-        margin: 50px;
-      }
-
-      .text__index {
-        color: #fff;
-        text-align: left;
-        width: 90%;
-        margin-inline: auto;
-        font-size: 18px;
-        text-align: justify;
-        padding-top: 10px;
-      }
-
-      .image__index img {
-        width: 90%;
-        margin-bottom: 30px;
-      }
-
-      
-      .padding{
-        padding:0;
-      }
-
+ 
       .width {
         width: 80%;
         margin-inline: auto;
       }
 
-      .find_space {
-        padding-top: 5em;
-        font-size: 20px;
-        text-align: center;
-        padding: 0;
-      }
+  
 
       .text-section_graduacion{
         width: 90%;
         padding-top: 50px;
       }
 
-      .bg_trabajo_graduacion{
-        height: auto;
-      }
-  
-      .foto_services img {
-        width: 90%;
-        margin: 30px;
-      }
+ 
+
       .listado_help {
         display: block;
       }
@@ -1128,31 +840,7 @@ footer a:hover {
         padding: 15px;
       }
 
-      .table{
-        display: block;
-      }
-      .table > div {
-        width: 100%;
-        background-color: #d4d4d4;
-        display: grid;
-      }
-
-      .table > #place {
-        border-top-right-radius: 0px;
-        border-bottom-right-radius: 40px;
-        border-bottom-left-radius: 40px;
-      }
-
-      .table > #time {
-        border-top-left-radius: 40px;
-        border-bottom-left-radius: 0px;
-        border-top-right-radius: 40px;
-      }
-
-      .wrapper_service {
-        width: 90%;
-        margin-inline: auto;
-      }
+   
       .header {
         padding: 10px 0;
         display: block;
@@ -1182,10 +870,7 @@ footer a:hover {
         margin-inline: auto;
         text-align: center;
       }
-      .trabajo_necesitas {
-        display: grid;
-        grid-template-columns: 1fr;
-      }
+    
 
       .img-nudo{
         text-align: center;
@@ -1327,24 +1012,12 @@ footer .footer-column ul{
 
   @media (min-width: 760px) and (max-width: 900px) {
 
-    .image__index{
-      text-align: center;
-      margin: 0;
-    }
-    #jarron img {
-      width: auto;
-    }
+ 
     .utgard .Partners_index{
       width: 90%;
     }
-    .hand__index img {
-      width: 300px;
-      height: 250px;
-      margin: 50px;
-    }
-    .manos{
-      text-align: center;
-    }
+
+   
   
     
     .width{

@@ -1,13 +1,14 @@
 
 <?php
 
-const SMTP_PASSWORD ="";
+const SMTP_PASSWORD =";
 
-const SMTP_USER ="";
+const SMTP_USER ="crossfitutgard@hotmail.com";
 
-const SMTP_HOST ="";
+const SMTP_HOST ="smtp-mail.outlook.com";
 
 const SMTP_PORT = 587;
+
 // Crea una cuenta en Google Cloud Platform
 // Habilita la API de Places
 // Obtén una API Key de Google

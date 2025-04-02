@@ -77,7 +77,7 @@
             <br>
             Nuestra batalla tendra lugar en 2 ubicaciones confirmadas:
             <br>
-            <div class="">
+            <div>
                 <p>
                 <a href=""> <p class="btn-reservar">
                   Plaza de toros Casetas(Zaragoza).
