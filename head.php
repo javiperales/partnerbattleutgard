@@ -32,7 +32,7 @@
   {
   "@type": "ProfessionalService",
   "name": "Utgard Partners Battle",
-  "description": "Utgard Partners Battle Competicion Cross Training Zaragoza",
+  "description": "Utgard Partners Battle Competicion CrossTraining Zaragoza",
   "priceRange": "$$",
   "address": {
     "@type": "PostalAddress",
@@ -40,7 +40,7 @@
   },
   "offers": {
     "@type": "Offer",
-    "serviceType": "Competicion Cross Training Zaragoza"
+    "serviceType": "Competicion CrossTraining Zaragoza"
   }
 }
     </script>

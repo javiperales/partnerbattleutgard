@@ -5,10 +5,9 @@
             <ul>
                 <li><h4>Enlaces</h4></li>
                 <li><a href="/politica-de-privacidad">Política de Privacidad</a></li>
-                <li><a href="/politica-de-cookies">Cookies</a></li>
+                <li><a href="/politica-de-cookies">Política de Cookies</a></li>
                 <li><a href="/avisos-legales">Aviso Legal</a></li>
                 <li><a href="/faq">Preguntas frecuentes</a></li>
-                <li><a href="/reviews">Reseñas</a></li>
             </ul>
         </div>
         <div class="footer-column flex">
@@ -62,7 +61,7 @@
 
 
 <script src="/public/js/cookieconsent.js"></script>
-<script src="/public/js/utgard PartnersBattle-cookieconsent.js"></script>
+<script src="/public/js/utgardPartnersBattle-cookieconsent.js"></script>
 <script>
 
 

@@ -1,7 +1,7 @@
 var cc = initCookieConsent();
 
 
-var cookie = '🍪';
+var cookie = '🏋️🍪🏋️';
 
 // run plugin with config object
 cc.run({
