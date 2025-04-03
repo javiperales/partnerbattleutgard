@@ -5,10 +5,10 @@
     <div class="nav-container-menu"><img class="icon_contact_menu" src="/web-img/icons/menu.svg" alt="UTGARD Partners BATTLE"></div>
     <div class="nav-container">
         <ul class="nav-menu">
-            <li><a href="/index">Inicio</a></li>
-            <li><a href="/ubicacion">Ubicacion</a></li>
+            <li><a href="#index">Inicio</a></li>
+            <li><a href="#ubicacion">Ubicacion</a></li>
             <li><a href="#Inscribete">Inscribete</a></li>
-            <li><a href="/contacto">Contacto</a></li>
+            <li><a href="#contacto">Contacto</a></li>
         </ul>
     </div>
     </div>

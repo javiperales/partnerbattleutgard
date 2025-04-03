@@ -1,6 +1,6 @@
 
 
-    <section>
+    <section id="index">
     <h1 class="title new-rocker-regular"><strong> ¡Bienvenidos a la Utgard Partners Battle!</strong></h1>
         <div class="section_body">
        
@@ -16,7 +16,7 @@
                 </p>
                
                 
-                <p>
+                <p id="Inscribete">
                 <a href="https://arena.wodbuster.com/register.aspx?id=2617"> <p class="btn-reservar">
                     Registrate aquí ahora.      
                      </p>
@@ -68,7 +68,7 @@
             <img class="" src="./web-img/images/cinturon.jpeg" alt="l" loading="lazy">
         </div>
 
-        <div class="section_body">
+        <div class="section_body" id="ubicacion">
         <img class="" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
         <div class="section_text">
             <h2> ¿Donde será?</h2>
@@ -126,7 +126,7 @@
     <section class="section section-form">
 
 
-    <div class="right-column">
+    <div class="right-column" id="contacto">
         <form id="contactForm" action="email.php" method="POST">
             <h2 class="title-form">Contáctame</h2>
             <div class="form-group">
