@@ -15,13 +15,14 @@
                 La Utgard Partners Battle es la competencia de cross training más emocionante del año, diseñada especialmente para equipos de dos. ¡Es hora de poner a prueba tu fuerza, resistencia, agilidad y trabajo en equipo! Forma tu pareja, prepárate para desafiar tus límites y demuestra que juntos son invencibles.
                 </p>
                
-                
+                <a href="https://arena.wodbuster.com/register.aspx?id=2617">
                 <p id="Inscribete">
-                <a href="https://arena.wodbuster.com/register.aspx?id=2617"> <p class="btn-reservar">
+                 <p class="btn-reservar">
                     Registrate aquí ahora.      
                      </p>
-                    </a>
+                    
                 </p>
+                </a>
             </div>
             <div class="">
                 <img " src="./web-img/images/scaled_bn.jpeg"  alt="" loading="lazy">
@@ -69,7 +70,8 @@
         </div>
 
         <div class="section_body" id="ubicacion">
-        <img class="" src="./web-img/images/idem.jpeg" alt="l" loading="lazy">
+       
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d744.4837951467618!2d-1.0363715544200367!3d41.72191753798199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd596f2ae72056a9%3A0xd233590f3452f742!2sPlaza%20de%20Toros%20de%20Casetas!5e0!3m2!1ses!2ses!4v1744212419188!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="section_text">
             <h2> ¿Donde será?</h2>
         <p>
@@ -78,18 +80,22 @@
             Nuestra batalla tendra lugar en 2 ubicaciones confirmadas:
             <br>
             <div>
+            <a href="https://maps.app.goo.gl/879cRf7f7SBE9DQH6" target="_blank">
                 <p>
-                <a href=""> <p class="btn-reservar">
+                <p class="btn-reservar">
                   Plaza de toros Casetas(Zaragoza).
                      </p>
-                    </a>
+                    
                 </p>
+                </a>
+                <a href="https://maps.app.goo.gl/yKCRUtxcixpk3Gk39" target="_blank">
                 <p>
-                <a href=""> <p class="btn-reservar">
+                 <p class="btn-reservar">
                  Utgard Box Utebo(Zaragoza).
                      </p>
-                    </a>
+                    
                 </p>
+                </a>
                 </div>
         </div>
         </p>
@@ -104,17 +110,27 @@
                     CATEGORIAS
                 </h2>
                 <p>
-                    RX,MASTER +75, INTERMEDIO Y SCALED.
+                  
+                    <ul>
+                        <li>RX</li>
+                        <li>MASTER +75</li>
+                        <li>INTERMEDIO</li>
+                        <li>SCALED</li>
+                    </ul>
                 </p>
                 <P>
                     DEL MISMO SEXO Y MIXTAS.
                 </P>
+                <a href="https://arena.wodbuster.com/register.aspx?id=2617">
                 <p>
-                <a href="wodbusterarena.com"> <p class="btn-reservar">
+                   
+                <p class="btn-reservar">
                     Contacto     
                      </p>
-                    </a>
+                     
+                   
                 </p>
+                </a>
 
             </div>
             <img class="" src="./web-img/images/a_jump.jpeg" alt="l" loading="lazy">
@@ -123,6 +139,25 @@
         </div>
        
     </section>
+
+    <section>
+    <div class="section_doc">
+            <h2>REGLAMENTO Y BASES LEGALES</h2>
+            <p>Reglamento de la competición, para acceder al check-in debéis de traer este documento firmado</p>
+            <a href="./web-docs/Reglamento y bases legales Utgard Partner Battle 2025.pdf">
+            <p>
+               <p class="btn-reservar">
+                    Descarga aquí el documento  <img class="icon" src="./web-img/icons/download.svg" alt="">
+                     </p>
+                    
+                  
+                </p>
+                </a>
+        </div>
+
+    </section>
+
+
     <section class="section section-form">
 
 
@@ -138,7 +173,7 @@
                 <input type="text" id="surname" name="surname" required>
             </div>
             <div class="form-group">
-                <label for="telefono">Telefono:</label>
+                <label for="telefono">Teléfono:</label>
                 <input type="tel"  pattern="[0-9]{3}[0-9]{3}[0-9]{3}" required id="telefono" name="telefono">
             </div>
             <div class="form-group">

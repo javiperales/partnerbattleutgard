@@ -12,7 +12,7 @@
         </div>
         <div class="footer-column flex">
          
-        <button class="button_social">
+        <a  href="https://www.instagram.com/utgard_partners_battle/" target="_blank" class="button_social">
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -29,8 +29,9 @@
       fill="currentColor"
     ></path>
   </svg>
-</button>
-<button class="button_social">
+ 
+</a>
+<a  href="https://wa.me/617200982" target="_blank" class="button_social">
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -51,7 +52,7 @@
       fill="currentColor"
     ></path>
   </svg>
-</button>
+</a>
 
 
         </div>
